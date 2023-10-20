@@ -20,8 +20,16 @@
         <field>Account.New_Logo__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Opportunity.Yes__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Account-Formato de cuentas</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Opportunity-Formato de oportunidades</layout>
     </layoutAssignments>
     <loginHours n1:nil="true" />
     <loginIpRanges>
