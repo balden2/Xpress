@@ -57,10 +57,6 @@
                 <behavior>Readonly</behavior>
                 <field>ExpectedRevenue</field>
             </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>ContractId</field>
-            </layoutItems>
         </layoutColumns>
         <style>TwoColumnsTopToBottom</style>
     </layoutSections>
