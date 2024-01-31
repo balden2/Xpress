@@ -26,4 +26,9 @@ public class AccountAutomations {
         a.website = 'www.copa.do'; 
         return a;
     }
+    
+    //this is a comment
+    //double comment
+    //still a comment
+    
 }
